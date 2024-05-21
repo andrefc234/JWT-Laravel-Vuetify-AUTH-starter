@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Laravel Vue Inertia Vuetify JWT Authentication
 
 This project is a web application built with Laravel, Vue, Vuetify, Inertia, and JWT authentication. It includes a basic setup for authentication and authorization using JWT tokens.
